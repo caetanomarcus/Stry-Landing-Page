@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="241.884" height="236.509" viewBox="0 0 241.884 236.509">
+  <defs>
+    <filter id="Ellipse_1076" x="130.634" y="91.938" width="26.601" height="26.6" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1076-2" x="105.908" y="67.212" width="26.601" height="26.6" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1076-3" x="163.96" y="76.887" width="26.601" height="26.6" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1076-4" x="161.811" y="109.139" width="26.601" height="26.6" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1076-5" x="205.887" y="119.889" width="26.601" height="26.6" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1076-6" x="119.884" y="130.639" width="26.601" height="26.6" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1076-7" x="134.935" y="177.941" width="26.601" height="26.6" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1076-8" x="83.332" y="108.064" width="26.601" height="26.6" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1076-9" x="79.032" y="139.24" width="26.601" height="26.6" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7032" data-name="Group 7032" transform="translate(1320.506 -942.812) rotate(90)">
+    <path id="Path_6572" data-name="Path 6572" d="M1081.266,1204.084l47.2-14.968" transform="translate(5.014 -16.435)" fill="none" stroke="#3913b3" stroke-width="2"/>
+    <g id="Group_6872" data-name="Group 6872" transform="translate(1001.129 1100.324)">
+      <path id="Path_6657" data-name="Path 6657" d="M-8861.513-18658.629l16.364,46.938,31.891,5.82-20.749,31.035,29.157,50.48" transform="translate(8907.79 18734.291)" fill="none" stroke="#3913b3" stroke-width="2"/>
+      <path id="Path_6658" data-name="Path 6658" d="M-8918.172-18730.926l24.093-25.42,39.321,10.654-19.705-40.889,9.31-45.631" transform="translate(8939.751 18832.211)" fill="none" stroke="#3913b3" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_6659" data-name="Path 6659" d="M-8892.194-18733.668l31.116,2.156" transform="translate(8925.098 18776.623)" fill="none" stroke="#3913b3" stroke-width="2"/>
+      <path id="Path_6573" data-name="Path 6573" d="M54.535,148.753l-74.609,30.234" transform="translate(20.073 11.162)" fill="none" stroke="#3913b3" stroke-width="2"/>
+    </g>
+    <g id="Group_7031" data-name="Group 7031" transform="translate(942.812 1078.622)">
+      <path id="Path_6571" data-name="Path 6571" d="M965.339,1213.1l16.37,38.519" transform="translate(-946.496 -1093.256)" fill="none" stroke="#dfe3fa" stroke-width="2"/>
+      <g id="Group_6871" data-name="Group 6871" transform="translate(3.767 4.272)">
+        <path id="Path_6660" data-name="Path 6660" d="M-8997.089-18647.971l-60.091-4.371,30.341-15.854-16.237-18.285-29.18-16.432" transform="translate(9072.256 18766.936)" fill="none" stroke="#dfe3fa" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_6662" data-name="Path 6662" d="M-9060.341-18787.051l45.85-9.846,19.5,33.2" transform="translate(9113.293 18824.926)" fill="none" stroke="#dfe3fa" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_6663" data-name="Path 6663" d="M-8806.011-18545.635l15.327-16.391-18.218-18.621" transform="translate(8992.957 18713.689)" fill="none" stroke="#dfe3fa" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_6664" data-name="Path 6664" d="M-8739.427-18662.279l-6.07,28.025-19.366,8.418-3.216-42.74,20.23-25.559" transform="translate(8968.163 18777.527)" fill="none" stroke="#dfe3fa" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_6665" data-name="Path 6665" d="M-8830.229-18763.314l19.675,13.314-19.675,22.689" transform="translate(8983.486 18805.984)" fill="none" stroke="#dfe3fa" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_6569" data-name="Path 6569" d="M77.465,1.957,84.7-26.074" transform="translate(20.889 26.074)" fill="none" stroke="#dfe3fa" stroke-width="2"/>
+        <path id="Path_6570" data-name="Path 6570" d="M146.838,28.85l3.341-36.656" transform="translate(26.094 27.445)" fill="none" stroke="#dfe3fa" stroke-width="2"/>
+      </g>
+      <g id="Group_3991" data-name="Group 3991" transform="translate(0 0)">
+        <ellipse id="Ellipse_1096" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(53.752 207.482)" fill="#3e51cc"/>
+        <ellipse id="Ellipse_1096-2" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(156.956 226.833)" fill="#3e51cc"/>
+        <g id="Group_7033" data-name="Group 7033">
+          <ellipse id="Ellipse_1096-3" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(97.829 27.951)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-4" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(52.677 37.626)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-5" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(105.354)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-6" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(176.306 19.351)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-7" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(152.656 41.927)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-8" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(172.006 55.902)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-9" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(152.656 79.553)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-10" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(141.905 64.502)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-11" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(221.458 81.703)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-12" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(198.882 108.579)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-13" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(227.908 115.029)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-14" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(221.458 142.98)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-15" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(202.107 151.58)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-16" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(183.832 133.305)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-17" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(187.057 167.706)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-18" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(185.982 198.882)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-19" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(163.406 190.282)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-20" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(156.956 131.155)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-21" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(23.651 196.732)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-22" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(94.603 218.233)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-23" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(105.354 233.283)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-24" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(22.576 41.927)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-25" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(210.708 47.302)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-26" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(94.603 173.081)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-27" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(15.051 115.029)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-28" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(45.152 98.904)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-29" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(27.951 80.628)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-30" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(72.028 98.904)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-31" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(62.352 62.352)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-32" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(0 64.502)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-33" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(49.452 127.93)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-34" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(31.176 154.806)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-35" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(65.577 152.656)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1096-36" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(69.878 167.706)" fill="#dfe3fa"/>
+          <ellipse id="Ellipse_1092" data-name="Ellipse 1092" cx="4.844" cy="4.844" rx="4.844" ry="4.844" transform="translate(97.257 126.66)" fill="#dfe3fa"/>
+        </g>
+        <ellipse id="Ellipse_1096-37" data-name="Ellipse 1096" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(127.93 177.381)" fill="#3e51cc"/>
+      </g>
+      <g id="Group_6892" data-name="Group 6892" transform="translate(76.212 18.396)">
+        <g transform="matrix(0, -1, 1, 0, -76.21, 223.49)" filter="url(#Ellipse_1076)">
+          <ellipse id="Ellipse_1076-10" data-name="Ellipse 1076" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(148.23 100.94) rotate(90)" fill="#3e51cc"/>
+        </g>
+        <g transform="matrix(0, -1, 1, 0, -76.21, 223.49)" filter="url(#Ellipse_1076-2)">
+          <ellipse id="Ellipse_1076-11" data-name="Ellipse 1076" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(123.51 76.21) rotate(90)" fill="#3e51cc"/>
+        </g>
+        <g transform="matrix(0, -1, 1, 0, -76.21, 223.49)" filter="url(#Ellipse_1076-3)">
+          <ellipse id="Ellipse_1076-12" data-name="Ellipse 1076" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(181.56 85.89) rotate(90)" fill="#3e51cc"/>
+        </g>
+        <g transform="matrix(0, -1, 1, 0, -76.21, 223.49)" filter="url(#Ellipse_1076-4)">
+          <ellipse id="Ellipse_1076-13" data-name="Ellipse 1076" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(179.41 118.14) rotate(90)" fill="#3e51cc"/>
+        </g>
+        <g transform="matrix(0, -1, 1, 0, -76.21, 223.49)" filter="url(#Ellipse_1076-5)">
+          <ellipse id="Ellipse_1076-14" data-name="Ellipse 1076" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(223.49 128.89) rotate(90)" fill="#3e51cc"/>
+        </g>
+        <g transform="matrix(0, -1, 1, 0, -76.21, 223.49)" filter="url(#Ellipse_1076-6)">
+          <ellipse id="Ellipse_1076-15" data-name="Ellipse 1076" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(137.48 139.64) rotate(90)" fill="#3e51cc"/>
+        </g>
+        <g transform="matrix(0, -1, 1, 0, -76.21, 223.49)" filter="url(#Ellipse_1076-7)">
+          <ellipse id="Ellipse_1076-16" data-name="Ellipse 1076" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(152.53 186.94) rotate(90)" fill="#3e51cc"/>
+        </g>
+        <g transform="matrix(0, -1, 1, 0, -76.21, 223.49)" filter="url(#Ellipse_1076-8)">
+          <ellipse id="Ellipse_1076-17" data-name="Ellipse 1076" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(100.93 117.06) rotate(90)" fill="#3e51cc"/>
+        </g>
+        <g transform="matrix(0, -1, 1, 0, -76.21, 223.49)" filter="url(#Ellipse_1076-9)">
+          <ellipse id="Ellipse_1076-18" data-name="Ellipse 1076" cx="4.3" cy="4.3" rx="4.3" ry="4.3" transform="translate(96.63 148.24) rotate(90)" fill="#3e51cc"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

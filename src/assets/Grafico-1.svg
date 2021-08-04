@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="263.252" height="216.68" viewBox="0 0 263.252 216.68">
+  <g id="Group_6947" data-name="Group 6947" transform="translate(-175.379 -1051)">
+    <g id="Group_6944" data-name="Group 6944" transform="translate(340.006 1207.276)">
+      <line id="Line_655" data-name="Line 655" x2="24.92" y2="24.92" fill="none" stroke="#3e51cc" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_656" data-name="Line 656" x2="24.92" y2="24.92" transform="translate(24.92) rotate(90)" fill="none" stroke="#3e51cc" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Group_6946" data-name="Group 6946" transform="translate(177.5 1240.638)">
+      <line id="Line_655-2" data-name="Line 655" x2="24.92" y2="24.92" transform="translate(0)" fill="none" stroke="#3e51cc" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_656-2" data-name="Line 656" x2="24.92" y2="24.92" transform="translate(24.92) rotate(90)" fill="none" stroke="#3e51cc" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Ellipse_1114" data-name="Ellipse 1114" transform="translate(396.659 1051)" fill="none" stroke="#3e51cc" stroke-width="3">
+      <circle cx="20.986" cy="20.986" r="20.986" stroke="none"/>
+      <circle cx="20.986" cy="20.986" r="19.486" fill="none"/>
+    </g>
+    <line id="Line_657" data-name="Line 657" y1="30.134" x2="102.239" transform="translate(220.548 1219.282)" fill="none" stroke="#3e51cc" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_658" data-name="Line 658" x1="86.096" y1="31.21" transform="translate(263.596 1160.091)" fill="none" stroke="#3e51cc" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_659" data-name="Line 659" y1="32.286" x2="93.629" transform="translate(291.577 1085.519)" fill="none" stroke="#3e51cc" stroke-linecap="round" stroke-width="3"/>
+    <g id="Polygon_2" data-name="Polygon 2" transform="translate(227.5 1099.026)" fill="none" stroke-linecap="round">
+      <path d="M21.634,1.5a1,1,0,0,1,1.732,0l20.769,36a1,1,0,0,1-.866,1.5H1.731a1,1,0,0,1-.866-1.5Z" stroke="none"/>
+      <path d="M 22.49999809265137 6.003334045410156 L 5.194225311279297 36.00000762939453 L 39.80575942993164 36 L 22.49999809265137 6.003334045410156 M 22.4999942779541 1.001106262207031 C 22.83687973022461 1.001106262207031 23.17376518249512 1.167865753173828 23.36618041992188 1.501388549804688 L 44.13476943969727 37.50027847290039 C 44.51939010620117 38.16694641113281 44.03824996948242 38.99999618530273 43.26858901977539 38.99999618530273 L 1.731410980224609 39.00000762939453 C 0.9617500305175781 38.99999618530273 0.4806098937988281 38.16694641113281 0.8652191162109375 37.50027847290039 L 21.63381004333496 1.501388549804688 C 21.82622528076172 1.167865753173828 22.16311073303223 1.001106262207031 22.4999942779541 1.001106262207031 Z" stroke="none" fill="#3e51cc"/>
+    </g>
+  </g>
+</svg>
