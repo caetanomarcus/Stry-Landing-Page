@@ -3,6 +3,8 @@ import Header from './components/Header'
 import Initial from './components/Initial'
 import MidldleBox from './components/MidlleBox'
 import NewYear from './components/NewYear'
+import FinalBoxes from './components/FinalBoxes'
+import Faq from './components/Faq'
 
 
 const GlobalStyle = createGlobalStyle `
@@ -22,6 +24,8 @@ function App() {
       <Initial />
       <MidldleBox />
       <NewYear />
+      <FinalBoxes />
+      <Faq />
       
     </div>
   );

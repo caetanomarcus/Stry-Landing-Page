@@ -1,5 +1,6 @@
-import React from 'react'
-import styled from 'styled-components'
+import React from 'react';
+import styled from 'styled-components';
+import handleCreateAccount from '../utils/handleCreateAccount';
 
 const Btn = styled.button `
     font-size: 1.125rem;
@@ -10,12 +11,17 @@ const Btn = styled.button `
     background-color:${props => props.watch? '#F7F7F7': '#3E51CC'};
     color: ${props => props.watch? '#3913B3': '#F7F7F7'};
     cursor: pointer;
+    transition: 1s;
+
+    &:hover{
+        transform: scale(1.05);
+    }
     
 `
 
-const Button = ({btnText, width, height, watch}) => {
+const Button = ({btnText, width, height, watch, create, start}) => {
 
-    return <Btn width={width} height={height} watch={watch} >{btnText}</Btn>
+    return <Btn width={width} height={height} watch={watch} onClick={() =>handleCreateAccount(create || start)} >{btnText}  </Btn>
 }
 
 export default Button;

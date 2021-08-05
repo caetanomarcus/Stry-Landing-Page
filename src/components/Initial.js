@@ -9,18 +9,26 @@ const Container = styled.section `
     display: flex;
     flex-direction: column;
     width: 100%;
+    height: 50vw;
+    min-height: 55rem;
     background-image: url(${postIts});
     background-repeat: no-repeat;
-    background-position:50% top ;
-    background-size: 137vw;
-    
+    background-size:133vw; 
+    background-position: center top; 
+
+
+    @media(min-width: 1440px){
+       height: 50vw;
+   } 
+
+   
 `
 
 const TitleContainer = styled.section `
     display: flex;
     width: 65%;
     max-width: 59rem;
-    height: 27rem;
+    height: 30rem;
     margin: auto;
     align-items: center;
 `
@@ -37,7 +45,7 @@ const PrincipalContender = styled.div `
     justify-content: flex-start;
     align-items: flex-start;
     width: 100%;
-    height: 28rem;
+    height: 32rem;
     max-width: 1440px;
     position: relative;
     margin: auto;
@@ -94,7 +102,7 @@ const Initial = () => {
                 <BtnContender>
                     <Paragraph>The online collaborative whiteboarding platform to bring teams together, anytime, anywhere.</Paragraph>
                     <Buttons>
-                    <Button width='10.125rem' height='3.5rem' btnText='Create Account' />
+                    <Button width='10.125rem' height='3.5rem' btnText='Create Account' create />
                     <Button width='10.125rem' height='3.5rem' btnText='Watch Video' watch />
                     </Buttons>
                 </BtnContender>

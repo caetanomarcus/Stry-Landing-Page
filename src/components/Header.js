@@ -49,8 +49,8 @@ const Header = () => {
                <a href='#'> <Logo src={logo} /></a>
             </LogoContainer>
             <AccountContainer>
-                <LoginText href="#" >Log In</LoginText>
-                <Button width='10.125rem' height='3.5rem' btnText='Create Account' />
+                <LoginText href="https://go.strytegy.com/login/" target="_blank" >Log In</LoginText>
+                <Button width='10.125rem' height='3.5rem' btnText='Create Account' create />
             </AccountContainer>
         </Container>
     )
