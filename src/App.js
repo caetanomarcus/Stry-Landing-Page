@@ -5,6 +5,7 @@ import MidldleBox from './components/MidlleBox'
 import NewYear from './components/NewYear'
 import FinalBoxes from './components/FinalBoxes'
 import Faq from './components/Faq'
+import Footer from './components/Footer'
 
 
 const GlobalStyle = createGlobalStyle `
@@ -26,6 +27,7 @@ function App() {
       <NewYear />
       <FinalBoxes />
       <Faq />
+      <Footer />
       
     </div>
   );

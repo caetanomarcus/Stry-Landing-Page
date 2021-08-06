@@ -10,7 +10,7 @@ import grafico3 from '../assets/Grafico-3.svg'
 
 const Container = styled.section `
     display: flex;
-    height: 50rem;
+    height: 55rem;
     flex-direction: column;
     justify-content: space-evenly;
     margin-bottom: 10rem;
@@ -32,7 +32,7 @@ const BoxesContainer = styled.div `
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    width: 93%;
+    width: 98%;
     margin: 0 auto;
     max-width: 1440px;
 `
@@ -60,7 +60,7 @@ const BlueBox = styled.div `
     justify-content: center;
     align-items: flex-start;
     position: absolute;
-    top: -78%;
+    top: -67%;
     left: -15%;
 `
 
@@ -104,6 +104,7 @@ const Paragraph = styled.p `
     width: 80%;
     margin-top:2rem;
     color: #505050;
+    line-height: 1.4;
 
 `
 

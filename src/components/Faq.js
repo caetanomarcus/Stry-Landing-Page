@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import styled from 'styled-components';
 
 const Container =styled.div `
-    height: 40rem;
+    height: fit-content;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -15,12 +15,14 @@ const Title = styled.h2 `
     color: #2F2F2F;
     margin: 0 auto;
     max-width: 1440px;
+    align-self: flex-start;
+    height: 8rem;
     
 `
 const Contender = styled.div `
     width: 75%;
     max-width: 1440px;
-    height: 45rem;
+    height: fit-content;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -65,6 +67,18 @@ const ItemText = styled.p `
     width: 93%;
     color: #505050;
     margin-left: 1.5rem;
+`
+
+const SecondTitle = styled.h2 `
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #2F2F2F;
+    margin: 0 auto;
+    max-width: 1440px;
+    margin-bottom: 5rem;
+    margin-top: 5rem;
+    
 `
 
 
@@ -135,7 +149,7 @@ const Faq = () => {
                    )
                })}
             </Contender>
-            <Title>Try your strategy with Strytegy</Title>
+            <SecondTitle>Try your strategy with Strytegy</SecondTitle>
         </Container>
     )
 }

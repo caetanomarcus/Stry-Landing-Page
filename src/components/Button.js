@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import handleCreateAccount from '../utils/handleCreateAccount';
+import handleClick from '../utils/handleClick';
 
 const Btn = styled.button `
     font-size: 1.125rem;
@@ -21,7 +21,7 @@ const Btn = styled.button `
 
 const Button = ({btnText, width, height, watch, create, start}) => {
 
-    return <Btn width={width} height={height} watch={watch} onClick={() =>handleCreateAccount(create || start)} >{btnText}  </Btn>
+    return <Btn width={width} height={height} watch={watch} onClick={() =>handleClick(create, start)} >{btnText}  </Btn>
 }
 
 export default Button;

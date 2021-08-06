@@ -6,10 +6,10 @@ import logo from '../assets/Strytegy-Logo.svg'
 const Container = styled.section `
     display: flex;
     justify-content: space-evenly;
-    align-items: center;
+    align-items: flex-end;
     width: 100%;
     max-width: 1440px;
-    height: 10rem;
+    height: 7rem;
     margin: auto;
 `
 
@@ -46,7 +46,7 @@ const Header = () => {
     return (
         <Container>
             <LogoContainer>
-               <a href='#'> <Logo src={logo} /></a>
+                <Logo src={logo} />
             </LogoContainer>
             <AccountContainer>
                 <LoginText href="https://go.strytegy.com/login/" target="_blank" >Log In</LoginText>

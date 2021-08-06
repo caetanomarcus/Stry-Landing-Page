@@ -1,13 +1,6 @@
 import React from 'react';
-import styled from 'styled-components';
-import texturaRosa from '../assets/Textura-Rosa.png';
-import texturaVermelha from '../assets/Textura-Vermelha.png';
-import texturaCiano from '../assets/Textura-Ciano.png';
-import texturaLaranja from '../assets/Textura-Laranja.png';
-import case1 from '../assets/Imagem-Cases-1.png'
-import case2 from '../assets/Imagem-Cases-2.png'
-import case3 from '../assets/Imagem-Cases-3.png'
-import case4 from '../assets/Imagem-Cases-4.png'
+import styled,{keyframes} from 'styled-components';
+import {firstData} from '../data/data'
 
 const Container = styled.section ` 
     display: flex;
@@ -49,7 +42,8 @@ const Image = styled.div `
     width: 14.6875rem;
     height: 13.713125rem;
     background-size: cover;
-    background-repeat: no-repeat;  
+    background-repeat: no-repeat; 
+    position : relative;
 `
 const BoxText = styled.div `
     width: 45%;
@@ -74,8 +68,20 @@ const TextParagraph = styled.p `
     color: #505050;
     
 `
-const ImageCases = styled.img `
+const movie = keyframes `
+    0{
+        transform: rotate(5deg)
+    }
 
+    25%{
+        transform: rotate(-5deg)
+    }
+
+`
+
+const ImageCases = styled.img `
+    position: absolute;
+    animation: ${movie} 2s linear infinite;
 `
 
 const MidldleBox = () => {
@@ -84,44 +90,18 @@ const MidldleBox = () => {
         <Container>
             <Title>Team wide strategic thinking</Title>
             <BoxContainer>
-                <Box>
-                    <Image bg={texturaRosa} >
-                        <ImageCases src={case1}/> 
+                {firstData.map(item =>(
+                    <Box>
+                    <Image bg={item.textura} >
+                        <ImageCases src={item.case}/> 
                     </Image>
                     <BoxText>
-                        <TextTitle>Launch a new business</TextTitle>
-                        <TextParagraph>Turn ideas into a clear action plan, validate, learn and grow.</TextParagraph>
+                        <TextTitle>{item.title}</TextTitle>
+                        <TextParagraph>{item.paragraph}</TextParagraph>
 
                     </BoxText>
                 </Box>
-                <Box>
-                    <Image bg={texturaVermelha} >
-                        <ImageCases src={case2}/> 
-                    </Image>
-                    <BoxText>
-                    <TextTitle>Develop a digital product</TextTitle>
-                        <TextParagraph>Map and prioritize features to build a product people love.</TextParagraph>
-                    </BoxText>
-                </Box>
-                <Box>
-                    <Image bg={texturaCiano} >
-                        <ImageCases src={case3}/> 
-                    </Image>
-                    <BoxText>
-                    <TextTitle>Understand your customers</TextTitle>
-                        <TextParagraph>Understand your customers</TextParagraph>
-                    </BoxText>
-                </Box>
-                <Box>
-                    <Image bg={texturaLaranja} >
-                        <ImageCases src={case4}/> 
-                    </Image>
-                    <BoxText>
-                    <TextTitle>Lead and empower people</TextTitle>
-                        <TextParagraph>Listen and co create a desirable (successful) future.</TextParagraph>
-                    </BoxText>
-                </Box>
-               
+                ))}
             </BoxContainer>
         </Container>
     )

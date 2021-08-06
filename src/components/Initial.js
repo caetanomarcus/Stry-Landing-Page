@@ -8,9 +8,8 @@ import postIts from '../assets/Grafico-Fluxo_postits.svg'
 const Container = styled.section `
     display: flex;
     flex-direction: column;
-    width: 100%;
-    height: 50vw;
-    min-height: 55rem;
+    justify-content: center;
+    height: 50rem;
     background-image: url(${postIts});
     background-repeat: no-repeat;
     background-size:133vw; 
@@ -18,7 +17,9 @@ const Container = styled.section `
 
 
     @media(min-width: 1440px){
-       height: 50vw;
+       height: 55vw;
+       max-height: 100rem;
+       background-size: 125vw ;  
    } 
 
    
@@ -29,8 +30,8 @@ const TitleContainer = styled.section `
     width: 65%;
     max-width: 59rem;
     height: 30rem;
-    margin: auto;
-    align-items: center;
+    margin:  auto;
+    align-items: center; 
 `
 
 const Title = styled.h1 `
@@ -39,6 +40,7 @@ const Title = styled.h1 `
     color: #2F2F2F;
     width: 80%;
     max-width: 65rem;
+    margin-top: 3rem;
 `
 const PrincipalContender = styled.div `
     display: flex;
@@ -56,8 +58,8 @@ const BtnContender = styled.div `
     flex-direction: column;
     justify-content: center;
     width: 82%;
-    
     margin-left: auto;
+    align-self: flex-start;
 
     
 `
@@ -87,7 +89,7 @@ const ImgContender = styled.div `
     background-position: 18% 4%;
     position: absolute;
     right: 12%;
-    top: -26%;
+    top: -24%;
     
     
 `
